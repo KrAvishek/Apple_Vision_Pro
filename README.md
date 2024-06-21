@@ -18,6 +18,9 @@ This project is a clone of the Apple Vision Pro website. It replicates the desig
 
 ## Screenshots
 
+![Screenshot](https://raw.githubusercontent.com/KrAvishek/Apple_Vision_Pro/master/ReadMe%20Assests/Screenshot%202024-06-21%20132215.png)
+![Screenshot](https://raw.githubusercontent.com/KrAvishek/Apple_Vision_Pro/master/ReadMe%20Assests/Screenshot%202024-06-21%20131907.png)
+![Screenshot](https://raw.githubusercontent.com/KrAvishek/Apple_Vision_Pro/master/ReadMe%20Assests/Screenshot%202024-06-21%20132111.png)
 
 
 ## Getting Started
